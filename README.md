@@ -91,27 +91,6 @@ Model outputs:
 └── sample_dataset.csv    # Optional example dataset
 ```
 
----
-
-## 🌐 Deployment (Free using Streamlit Cloud)
-
-You can deploy this project **100% free** using Streamlit Community Cloud.
-
-### Steps:
-
-1. Push the project folder to GitHub
-2. Go to [https://share.streamlit.io](https://share.streamlit.io)
-3. Click **New App**
-4. Choose:
-
-   * Repository: your GitHub repo
-   * Branch: `main`
-   * File: `app.py`
-5. Deploy
-
-A public link will be generated automatically.
-
----
 
 ## 🧪 How to Run Locally
 
